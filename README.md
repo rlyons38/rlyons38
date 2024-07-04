@@ -11,7 +11,6 @@
 		"technologies": [
 			"Azure services",
 			"Terraform",
-			"Full-stack development"
 		],
 		"languages: [
 			"JavaScript",
@@ -20,7 +19,7 @@
 			"PowerShell"
 		],
 	}
-	"collaborate": "The Odin Project",
+	"collaborate":
 	"contact": {
 		"LinkedIn": "-waiting project approval-"
 		"mail": "-waiting project approval-"
